@@ -1,3 +1,5 @@
+version: 2
+
 sources:
   - name: google_sheets_kk.sheets_kk
     tables:
