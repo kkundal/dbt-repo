@@ -1,6 +1,6 @@
 version: 2
 
 sources:
-  - name: google_sheets_kk.sheets_kk
+  - name: google_sheets_kk
     tables:
       - name: sheets_kk
